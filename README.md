@@ -63,7 +63,8 @@ I'm currently a third year CS @ UCSD and a former Software Engineer Intern at [C
   <a href="https://www.linkedin.com/in/ramtintjb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-Visit my [blog](https://ramtintjb.com)
+- Visit my [blog](https://ramtintjb.com)
+- Feel free to shoot me an email if you want to contact me: [ramtintjb@gmail.com](mailto:ramtintjb@gmail.com)
 
 <!--
 **RamtinTJB/RamtinTJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
