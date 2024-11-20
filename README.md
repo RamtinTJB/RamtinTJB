@@ -2,7 +2,7 @@
 
 Welcome to my page! 
 
-I'm currently a third year CS @ UCSD and a former Software Engineer Intern at [Capital One](https://www.capitalone.com). My goal is to learn every dark corner of C++, without losing my sanity.
+I'm currently a third year CS @ UCSD and an incoming Software Engineer Intern at [Apple](https://www.apple.com). My goal is to learn every dark corner of C++, without losing my sanity.
 
 📚 Currently reading:
 - [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
