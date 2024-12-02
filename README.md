@@ -35,6 +35,13 @@ I'm currently a third year CS @ UCSD and an incoming Software Engineer Intern at
 
 <ul>
   <li>
+    <a href="https://www.ramtintjb.com/blog/google-benchmark">
+      <b>Google Benchmark</b>
+    </a>
+    <br/>
+    <i>An introduction to Google Benchmark with examples</i>
+  </li>
+  <li>
     <a href="https://www.ramtintjb.com/blog/Recursive-Lambda">
       <b>Recursive Lambdas in C++</b>
     </a>
