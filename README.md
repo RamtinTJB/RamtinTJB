@@ -2,7 +2,7 @@
 
 Welcome to my page! 
 
-I'm currently a third year CS @ UCSD and an incoming Software Engineer Intern at [Apple](https://www.apple.com). My goal is to learn every dark corner of C++, without losing my sanity.
+I'm currently a senior studying CS @ UCSD and a Software Engineer Intern at [Apple](https://www.apple.com)
 
 📚 Currently reading:
 - [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
@@ -12,6 +12,7 @@ I'm currently a third year CS @ UCSD and an incoming Software Engineer Intern at
 ### Things I code with
 <p>
   <img alt="C plus plus" src="https://img.shields.io/badge/-C++-5849BE?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
